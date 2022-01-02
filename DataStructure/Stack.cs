@@ -38,7 +38,7 @@ namespace DataStructure
             if (top < 0)
                 Console.WriteLine("The stack Is Empty");
             else
-                Console.WriteLine(item[top]);
+                Console.WriteLine($"The Top Element Of The Stack { item[top] }");
         }
         public void Print()
         {
