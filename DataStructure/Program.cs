@@ -32,14 +32,22 @@ namespace DataStructure
             // Get The Top Element On The Stack
             s.GetTop();*/
 
-            StackUsingLinkedList s = new StackUsingLinkedList();
+            /*StackUsingLinkedList s = new StackUsingLinkedList();
             s.Push(10);
             s.Push(15);
             s.Push(20);
             s.Push(25);
             s.display();
             s.Pop();
-            s.display();
+            s.display();*/
+            balancedParencess b = new balancedParencess();
+            
+            Console.Write("Enter An Expression:");
+            string Expression = Console.ReadLine();
+            if(b.AreBalanced(Expression))
+                Console.WriteLine("Balanced");
+            else
+                Console.WriteLine("Not Balanced");
         }
     }
 }
