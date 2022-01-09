@@ -40,14 +40,26 @@ namespace DataStructure
             s.display();
             s.Pop();
             s.display();*/
-            balancedParencess b = new balancedParencess();
+            /*balancedParencess b = new balancedParencess();
             
             Console.Write("Enter An Expression:");
             string Expression = Console.ReadLine();
             if(b.AreBalanced(Expression))
                 Console.WriteLine("Balanced");
             else
-                Console.WriteLine("Not Balanced");
+                Console.WriteLine("Not Balanced");*/
+            QueueUsingArray queue = new QueueUsingArray();
+            queue.Enqueue(2);
+            queue.Enqueue(4);
+            queue.Enqueue(5);
+            queue.Enqueue(7);
+            queue.Enqueue(11);
+            queue.PrintQueue();
+            queue.DeQueue();
+            queue.PrintQueue();
+            Console.WriteLine($"Front IS: " + queue.GetFront());
+            Console.WriteLine($"Rear Is: " + queue.GetRear());
+
         }
     }
 }
