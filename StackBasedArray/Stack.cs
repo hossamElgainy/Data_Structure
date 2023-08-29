@@ -43,9 +43,10 @@ namespace DataStructure
         public void Print()
         {
             Console.Write("Stack Is [ ");
-            for (int i = top; i >-1; i--)
+
+            for (int i = top; i > -1; i--)
             {
-                Console.Write(item[i] + " ");
+                Console.Write(item[i] + "<= ");
             }
             Console.WriteLine("]");
         }

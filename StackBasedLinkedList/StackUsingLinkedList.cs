@@ -28,11 +28,13 @@ namespace DataStructure
         {
             if (!IsEmpty())
             {
-                return Top.data;
+                System.Console.WriteLine($"The Top Of The Stack[ {Top.data} ]\n");
+
+                return 1;
             }
             else
             {
-                System.Console.WriteLine("The Stack Is Empty");
+                System.Console.WriteLine("The Stack Is Empty\n");
                 return -1;
             }
         }
@@ -40,7 +42,7 @@ namespace DataStructure
         {
             if (IsEmpty())
             {
-                System.Console.WriteLine("The Stack Is Empty");
+                System.Console.WriteLine("The Stack Is Empty\n");
             }
             else
             {
@@ -58,17 +60,17 @@ namespace DataStructure
             else
             {
                 Node temp = Top;
-                Console.Write("[");
+                Console.Write("The Stack List[");
                 while (temp != null)
                 {
 
                     // print node data
-                    Console.Write(temp.data+" ");
+                    Console.Write(temp.data+" <= ");
 
                     // assign temp link to temp
                     temp = temp.link;
                 }
-                Console.WriteLine("]");
+                Console.WriteLine("]\n");
             }
         }
     }

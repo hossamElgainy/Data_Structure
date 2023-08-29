@@ -1,0 +1,16 @@
+E:\asp.net projects\DataStructure\StackBasedArray\bin\Debug\net5.0\StackBasedArray.exe
+E:\asp.net projects\DataStructure\StackBasedArray\bin\Debug\net5.0\StackBasedArray.deps.json
+E:\asp.net projects\DataStructure\StackBasedArray\bin\Debug\net5.0\StackBasedArray.runtimeconfig.json
+E:\asp.net projects\DataStructure\StackBasedArray\bin\Debug\net5.0\StackBasedArray.runtimeconfig.dev.json
+E:\asp.net projects\DataStructure\StackBasedArray\bin\Debug\net5.0\StackBasedArray.dll
+E:\asp.net projects\DataStructure\StackBasedArray\bin\Debug\net5.0\ref\StackBasedArray.dll
+E:\asp.net projects\DataStructure\StackBasedArray\bin\Debug\net5.0\StackBasedArray.pdb
+E:\asp.net projects\DataStructure\StackBasedArray\obj\Debug\net5.0\StackBasedArray.csproj.AssemblyReference.cache
+E:\asp.net projects\DataStructure\StackBasedArray\obj\Debug\net5.0\StackBasedArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\asp.net projects\DataStructure\StackBasedArray\obj\Debug\net5.0\StackBasedArray.AssemblyInfoInputs.cache
+E:\asp.net projects\DataStructure\StackBasedArray\obj\Debug\net5.0\StackBasedArray.AssemblyInfo.cs
+E:\asp.net projects\DataStructure\StackBasedArray\obj\Debug\net5.0\StackBasedArray.csproj.CoreCompileInputs.cache
+E:\asp.net projects\DataStructure\StackBasedArray\obj\Debug\net5.0\StackBasedArray.dll
+E:\asp.net projects\DataStructure\StackBasedArray\obj\Debug\net5.0\ref\StackBasedArray.dll
+E:\asp.net projects\DataStructure\StackBasedArray\obj\Debug\net5.0\StackBasedArray.pdb
+E:\asp.net projects\DataStructure\StackBasedArray\obj\Debug\net5.0\StackBasedArray.genruntimeconfig.cache

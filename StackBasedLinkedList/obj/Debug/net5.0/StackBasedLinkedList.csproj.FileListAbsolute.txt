@@ -1,0 +1,16 @@
+E:\asp.net projects\DataStructure\StackBasedLinkedList\bin\Debug\net5.0\StackBasedLinkedList.exe
+E:\asp.net projects\DataStructure\StackBasedLinkedList\bin\Debug\net5.0\StackBasedLinkedList.deps.json
+E:\asp.net projects\DataStructure\StackBasedLinkedList\bin\Debug\net5.0\StackBasedLinkedList.runtimeconfig.json
+E:\asp.net projects\DataStructure\StackBasedLinkedList\bin\Debug\net5.0\StackBasedLinkedList.runtimeconfig.dev.json
+E:\asp.net projects\DataStructure\StackBasedLinkedList\bin\Debug\net5.0\StackBasedLinkedList.dll
+E:\asp.net projects\DataStructure\StackBasedLinkedList\bin\Debug\net5.0\ref\StackBasedLinkedList.dll
+E:\asp.net projects\DataStructure\StackBasedLinkedList\bin\Debug\net5.0\StackBasedLinkedList.pdb
+E:\asp.net projects\DataStructure\StackBasedLinkedList\obj\Debug\net5.0\StackBasedLinkedList.csproj.AssemblyReference.cache
+E:\asp.net projects\DataStructure\StackBasedLinkedList\obj\Debug\net5.0\StackBasedLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+E:\asp.net projects\DataStructure\StackBasedLinkedList\obj\Debug\net5.0\StackBasedLinkedList.AssemblyInfoInputs.cache
+E:\asp.net projects\DataStructure\StackBasedLinkedList\obj\Debug\net5.0\StackBasedLinkedList.AssemblyInfo.cs
+E:\asp.net projects\DataStructure\StackBasedLinkedList\obj\Debug\net5.0\StackBasedLinkedList.csproj.CoreCompileInputs.cache
+E:\asp.net projects\DataStructure\StackBasedLinkedList\obj\Debug\net5.0\StackBasedLinkedList.dll
+E:\asp.net projects\DataStructure\StackBasedLinkedList\obj\Debug\net5.0\ref\StackBasedLinkedList.dll
+E:\asp.net projects\DataStructure\StackBasedLinkedList\obj\Debug\net5.0\StackBasedLinkedList.pdb
+E:\asp.net projects\DataStructure\StackBasedLinkedList\obj\Debug\net5.0\StackBasedLinkedList.genruntimeconfig.cache

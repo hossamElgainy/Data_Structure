@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t83EFqtttQiMAQYDlb38b3IH2DYPEzkuqEQwOQBsSlhMdUN5v7+JbZQ6DMnKDo7p4u9itODXrF+fpN2O0+phWA==",
+  "success": true,
+  "projectFilePath": "E:\\asp.net projects\\DataStructure\\StackBasedArray\\StackBasedArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\10\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

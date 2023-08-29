@@ -1,0 +1,16 @@
+E:\asp.net projects\DataStructure\QueueBasedArray\bin\Debug\net5.0\QueueBasedArray.exe
+E:\asp.net projects\DataStructure\QueueBasedArray\bin\Debug\net5.0\QueueBasedArray.deps.json
+E:\asp.net projects\DataStructure\QueueBasedArray\bin\Debug\net5.0\QueueBasedArray.runtimeconfig.json
+E:\asp.net projects\DataStructure\QueueBasedArray\bin\Debug\net5.0\QueueBasedArray.runtimeconfig.dev.json
+E:\asp.net projects\DataStructure\QueueBasedArray\bin\Debug\net5.0\QueueBasedArray.dll
+E:\asp.net projects\DataStructure\QueueBasedArray\bin\Debug\net5.0\ref\QueueBasedArray.dll
+E:\asp.net projects\DataStructure\QueueBasedArray\bin\Debug\net5.0\QueueBasedArray.pdb
+E:\asp.net projects\DataStructure\QueueBasedArray\obj\Debug\net5.0\QueueBasedArray.csproj.AssemblyReference.cache
+E:\asp.net projects\DataStructure\QueueBasedArray\obj\Debug\net5.0\QueueBasedArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\asp.net projects\DataStructure\QueueBasedArray\obj\Debug\net5.0\QueueBasedArray.AssemblyInfoInputs.cache
+E:\asp.net projects\DataStructure\QueueBasedArray\obj\Debug\net5.0\QueueBasedArray.AssemblyInfo.cs
+E:\asp.net projects\DataStructure\QueueBasedArray\obj\Debug\net5.0\QueueBasedArray.csproj.CoreCompileInputs.cache
+E:\asp.net projects\DataStructure\QueueBasedArray\obj\Debug\net5.0\QueueBasedArray.dll
+E:\asp.net projects\DataStructure\QueueBasedArray\obj\Debug\net5.0\ref\QueueBasedArray.dll
+E:\asp.net projects\DataStructure\QueueBasedArray\obj\Debug\net5.0\QueueBasedArray.pdb
+E:\asp.net projects\DataStructure\QueueBasedArray\obj\Debug\net5.0\QueueBasedArray.genruntimeconfig.cache
