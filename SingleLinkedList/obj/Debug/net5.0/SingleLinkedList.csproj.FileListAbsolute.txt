@@ -1,0 +1,16 @@
+E:\asp.net projects\DataStructure\SingleLinkedList\bin\Debug\net5.0\SingleLinkedList.exe
+E:\asp.net projects\DataStructure\SingleLinkedList\bin\Debug\net5.0\SingleLinkedList.deps.json
+E:\asp.net projects\DataStructure\SingleLinkedList\bin\Debug\net5.0\SingleLinkedList.runtimeconfig.json
+E:\asp.net projects\DataStructure\SingleLinkedList\bin\Debug\net5.0\SingleLinkedList.runtimeconfig.dev.json
+E:\asp.net projects\DataStructure\SingleLinkedList\bin\Debug\net5.0\SingleLinkedList.dll
+E:\asp.net projects\DataStructure\SingleLinkedList\bin\Debug\net5.0\ref\SingleLinkedList.dll
+E:\asp.net projects\DataStructure\SingleLinkedList\bin\Debug\net5.0\SingleLinkedList.pdb
+E:\asp.net projects\DataStructure\SingleLinkedList\obj\Debug\net5.0\SingleLinkedList.csproj.AssemblyReference.cache
+E:\asp.net projects\DataStructure\SingleLinkedList\obj\Debug\net5.0\SingleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+E:\asp.net projects\DataStructure\SingleLinkedList\obj\Debug\net5.0\SingleLinkedList.AssemblyInfoInputs.cache
+E:\asp.net projects\DataStructure\SingleLinkedList\obj\Debug\net5.0\SingleLinkedList.AssemblyInfo.cs
+E:\asp.net projects\DataStructure\SingleLinkedList\obj\Debug\net5.0\SingleLinkedList.csproj.CoreCompileInputs.cache
+E:\asp.net projects\DataStructure\SingleLinkedList\obj\Debug\net5.0\SingleLinkedList.dll
+E:\asp.net projects\DataStructure\SingleLinkedList\obj\Debug\net5.0\ref\SingleLinkedList.dll
+E:\asp.net projects\DataStructure\SingleLinkedList\obj\Debug\net5.0\SingleLinkedList.pdb
+E:\asp.net projects\DataStructure\SingleLinkedList\obj\Debug\net5.0\SingleLinkedList.genruntimeconfig.cache

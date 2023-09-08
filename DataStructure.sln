@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStructure", "DataStruct
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackBasedArray", "StackBasedArray\StackBasedArray.csproj", "{A07D2F8D-7F78-4089-9FB9-575A16997BDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackBasedLinkedList", "StackBasedLinkedList\StackBasedLinkedList.csproj", "{E08DF98B-FEAB-4ED1-A769-7A4B957E6E52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackBasedLinkedList", "StackBasedLinkedList\StackBasedLinkedList.csproj", "{E08DF98B-FEAB-4ED1-A769-7A4B957E6E52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueBasedArray", "QueueBasedArray\QueueBasedArray.csproj", "{1A561232-2A2C-4BDA-A053-E23CB0885580}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueueBasedArray", "QueueBasedArray\QueueBasedArray.csproj", "{1A561232-2A2C-4BDA-A053-E23CB0885580}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleLinkedList", "SingleLinkedList\SingleLinkedList.csproj", "{50197DE3-47E9-48ED-B70E-8BAC531F253D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{1A561232-2A2C-4BDA-A053-E23CB0885580}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A561232-2A2C-4BDA-A053-E23CB0885580}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A561232-2A2C-4BDA-A053-E23CB0885580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50197DE3-47E9-48ED-B70E-8BAC531F253D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50197DE3-47E9-48ED-B70E-8BAC531F253D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50197DE3-47E9-48ED-B70E-8BAC531F253D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50197DE3-47E9-48ED-B70E-8BAC531F253D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
