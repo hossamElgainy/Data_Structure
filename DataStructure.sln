@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30907.101
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStructure", "DataStructure\DataStructure.csproj", "{21D0174F-58AD-4D34-82C5-D3FC6B5EAABA}"
 EndProject
@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackBasedLinkedList", "Sta
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueueBasedArray", "QueueBasedArray\QueueBasedArray.csproj", "{1A561232-2A2C-4BDA-A053-E23CB0885580}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleLinkedList", "SingleLinkedList\SingleLinkedList.csproj", "{50197DE3-47E9-48ED-B70E-8BAC531F253D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleLinkedList", "SingleLinkedList\SingleLinkedList.csproj", "{50197DE3-47E9-48ED-B70E-8BAC531F253D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoublyLinkedList", "DoublyLinkedList\DoublyLinkedList.csproj", "{7C6E2C3C-EE1C-4787-B632-EDD1082AF21A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{50197DE3-47E9-48ED-B70E-8BAC531F253D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50197DE3-47E9-48ED-B70E-8BAC531F253D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50197DE3-47E9-48ED-B70E-8BAC531F253D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C6E2C3C-EE1C-4787-B632-EDD1082AF21A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C6E2C3C-EE1C-4787-B632-EDD1082AF21A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C6E2C3C-EE1C-4787-B632-EDD1082AF21A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C6E2C3C-EE1C-4787-B632-EDD1082AF21A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

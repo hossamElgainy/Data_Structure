@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HHKgu8k+K17WauqYGycT+jUinreTXP0ok0gAL5WHfsvheQX0+YimlOkXwMqYgKv1NCLubWzecnXBfCas9bkCWg==",
+  "dgSpecHash": "awiUE6uZV2pkVeOSD2j+YKyHD7UpuOoeWG4zgIfUViFXhxHv60KY+vBnGfR4IMdBmjvwwz6Ci6Prlso2JMV+qA==",
   "success": true,
   "projectFilePath": "E:\\asp.net projects\\DataStructure\\SingleLinkedList\\SingleLinkedList.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\10\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

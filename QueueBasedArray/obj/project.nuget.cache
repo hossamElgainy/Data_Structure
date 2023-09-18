@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ep4Tp/Op9ZBTKAkphfc2aZ1dd2UOTWeolxXUvkFghHYNGJ2KERprR1Xa2ct4hNUUetvrt2kcEolGX9+AFzsU5w==",
+  "dgSpecHash": "GfU0KUSHbmYg7sG9TY7Q0G7aLHXN9f+zBevJWd1saPYMfeEWYqbSlM5tU4JLkMOHLhWZp6VYT4sRd5gMzWXslA==",
   "success": true,
   "projectFilePath": "E:\\asp.net projects\\DataStructure\\QueueBasedArray\\QueueBasedArray.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\10\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

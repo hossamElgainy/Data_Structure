@@ -134,6 +134,38 @@ namespace SingleLinkedList
             }
         }
 
+        public void ReverseList()
+        {
+            Node prev, next, curr;
+            prev = null;
+            curr = head;
+            next = curr.next;
+            while(next != null)
+            {
+                next = curr.next;
+                curr.next = prev;
+                prev = curr;
+                curr = next;
+            }
+            head = prev;
+        }
+
+        public void Search(int element)
+        {
+            Node curr =head;
+            int position = 1;
+            while(curr != null)
+            {
+                if (curr.item == element)
+                {
+                    Console.WriteLine($"This Element Is Exist At Position: {position}");
+                }                   
+                curr = curr.next;
+                position+=1;
+            }
+            Console.WriteLine("This Element Does Not Exist");
+        }
+
 
 
         public void Print()
